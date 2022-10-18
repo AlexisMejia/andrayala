@@ -22,6 +22,8 @@ body {
   border-right: 20px solid #fff;
   /* END white border*/
 }
+
+
 body:before, body:after {
   content: "";
   position: fixed;
