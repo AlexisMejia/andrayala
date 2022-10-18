@@ -23,6 +23,10 @@ body {
   /* END white border*/
 }
 
+#logoA{
+  height: 40px;
+  display: inline;
+}
 
 body:before, body:after {
   content: "";
@@ -149,7 +153,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 0;
   padding: 0;
   color: #000;
-  display: block;
+
   line-height: 32px;
 }
 .fh5co-nav #fh5co-logo a span {
