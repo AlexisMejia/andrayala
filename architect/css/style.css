@@ -344,7 +344,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-hero {
-  min-height: 800px;
+  min-height: 200px;
   background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
   float: left;
@@ -374,7 +374,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
-  min-height: 800px;
+  min-height: 500px;
   position: relative;
 }
 @media screen and (max-width: 768px) {
